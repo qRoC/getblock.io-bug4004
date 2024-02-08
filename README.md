@@ -8,7 +8,7 @@ I think problem in your proxy.
 
 When the error is caught, the application will display `BUG FOUND! Response: ...`
 
-Responses with error:
+Examples (responses with error):
 
 ```json
 [
