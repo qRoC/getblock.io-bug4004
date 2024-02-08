@@ -44,3 +44,5 @@ Examples (responses with error):
 {"id":580,"jsonrpc":"2.0","result":"0x0000000000000000000000000000000000000000000000000000000000000001"}
 ]
 ```
+
+* `...` - content cut due to size
